@@ -1,0 +1,8 @@
+1 - Sim, pelo fato de auxiliar no raciocinio lógico e ajudar em tarefas do dia a dia, como por exemplo a organização.
+
+2 - Colocar um sapato -> Pegar a chave -> Ir até a porta -> Abrir a porta -> Sair -> Fechar a porta -> Andar até o mercado
+
+3 - Inserir 2 números -> Fazer a soma -> Mostrar o resultado
+
+4 - Comprar uma lâmpada que funcione -> Pegar uma escada -> Posicionar no local de troca -> Subir -> Retirar a lâmpada ruim -> Colocar a lâmpada ruim em um local seguro
+-> Retirar a lâmpada nova da embalagem -> Colocar a lâmpada no bocal -> Descer da escada -> Testar para ver se a lâmpada funciona -> Guardar a escada 
