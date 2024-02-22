@@ -1,0 +1,2 @@
+3 - Exemplifique 2 regras de variáveis do VisualG.
+R: Não copmeçar a linha de código com caracteres especiais e não utilizar as palavras específicas, como var ou Leia.
